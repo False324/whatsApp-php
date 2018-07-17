@@ -4,7 +4,7 @@ PHP library for WhatsApp api
 [![Latest Version](https://img.shields.io/github/release/chatapi/whatsApp-php.svg?style=flat-square)](https://github.com/chatapi/whatsApp-php/releases)
 [![Total Downloads](https://img.shields.io/packagist/dt/chatapi/whatsApp.svg?style=flat-square)](https://packagist.org/packages/chatapi/whatsApp)
 
-Light PHP library for interact with WhatsApp api provided by [chat-api.com](https://chat-api.com/en/).
+Lightweight PHP library for interact with WhatsApp api provided by [chat-api.com](https://chat-api.com/en/).
 
 ## Installing
 
